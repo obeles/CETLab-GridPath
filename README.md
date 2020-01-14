@@ -1,0 +1,2 @@
+# CETLab-GridPath
+Wind and solar energy generation time series data sets are critical for electricity system modeling and understanding the low carbon transition of the grid. This project will focus on creating python-based scripts for converting weather data to wind and solar generation profiles. Further, the project includes an analysis of wind and solar generation and their correlation with load in different geographies to understand the potential requirements for conventional generation and storage investments in a future low carbon grid. 
